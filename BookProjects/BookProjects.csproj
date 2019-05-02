@@ -46,7 +46,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="193518220X.Manning.Publications.The.Quick.Python.Book.Jan.2010.pdf" />
+    <None Include="1ad21aa4a661ab666476ee2bc7d499cf.pdf" />
+    <None Include="9781785288937-PYTHON_GEOSPATIAL_DEVELOPMENT_THIRD_EDITION.pdf" />
     <None Include="App.config" />
+    <None Include="Building RESTful Python Web Services - Gaston C. Hillar.pdf" />
+    <None Include="[Addison Wesley] - The Python Standard Library by Example - [Hellmann] %282011%29.pdf" />
+    <None Include="[Apress] - Beginning Python Visualization - [Vaingast] %282009%29.pdf" />
+    <None Include="[Apress] - Beginning Python. From Novice to Professional, 2nd ed. - [Hetland] %282008%29.pdf" />
+    <None Include="[Apress] - Python 3 for Absolute Beginners - [Tim, Hall].pdf" />
+    <None Include="[O`Reilly] - Programming Python, 4th ed. - [Lutz].pdf" />
+    <None Include="[Packt] - Python 3 Web Development Beginners Guide - [Anders].pdf" />
+    <None Include="[Packt] - Python Testing Cookbook - [Turnquist] %282011%29.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
